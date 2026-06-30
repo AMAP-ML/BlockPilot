@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+accelerate
+numpy
+tqdm
+rich
+loguru
+typing_extensions
+safetensors
+sentencepiece
